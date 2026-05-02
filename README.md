@@ -24,16 +24,25 @@ Le système repose sur 6 tables relationnelles optimisées pour l'intégrité de
 *   **Suivi de Caisse** : Calcul en temps réel de la balance financière (Recettes - Dépenses).
 *   **Alertes Expirations** : Détection automatique des abonnements arrivant à échéance sous 72h.
 *   <img width="1918" height="873" alt="image de la page dashboard" src="https://github.com/user-attachments/assets/8b82c193-d7a1-44e8-9bed-a646d14d93b9" />
+<img width="1902" height="872" alt="image de la page dashboard graphique" src="https://github.com/user-attachments/assets/20edd9a4-51c5-4146-b1df-b843ce65c6cf" />
 
 
 ### 2. Gestion des Flux Membres
 *   **Inscription Intelligente** : Formulaire avec injection dynamique des prix selon le sexe et calcul automatique de la date d'expiration via SQL.
+*   <img width="1907" height="886" alt="image gestion membre inscrit" src="https://github.com/user-attachments/assets/1e223592-f5e3-4a74-8139-d31c57166717" />
+<img width="1916" height="922" alt="image de la page gestion membres1" src="https://github.com/user-attachments/assets/82b1a0aa-9977-4cb4-8cb9-03235309d0cb" />
+
+
 
 ### 3. Point de Vente & Stock
 *   **POS Interface** : Enregistrement rapide des ventes avec décrémentation automatique du `Stock_Actuel` dans la table `Produit`.
+*   <img width="1918" height="870" alt="image de la page boutique" src="https://github.com/user-attachments/assets/9d12207e-0bab-40d1-95f1-dd244c8587ac" />
+
 
 ### 4. Paramétrage & Finance
 *   **Maintenance des Tarifs** : Interface de mise à jour sécurisée pour ajuster les prix selon l'inflation ou les nouvelles offres.
+*   <img width="1913" height="890" alt="image de la page parametres" src="https://github.com/user-attachments/assets/ee0680ac-d113-4a31-b3d5-47e0a30b4807" />
+
 
 ## 🛠 Défis Techniques & Solutions
 
