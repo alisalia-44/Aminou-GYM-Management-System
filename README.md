@@ -23,6 +23,8 @@ Le système repose sur 6 tables relationnelles optimisées pour l'intégrité de
 ### 1. Dashboard de Pilotage
 *   **Suivi de Caisse** : Calcul en temps réel de la balance financière (Recettes - Dépenses).
 *   **Alertes Expirations** : Détection automatique des abonnements arrivant à échéance sous 72h.
+*   <img width="1918" height="873" alt="image de la page dashboard" src="https://github.com/user-attachments/assets/8b82c193-d7a1-44e8-9bed-a646d14d93b9" />
+
 
 ### 2. Gestion des Flux Membres
 *   **Inscription Intelligente** : Formulaire avec injection dynamique des prix selon le sexe et calcul automatique de la date d'expiration via SQL.
